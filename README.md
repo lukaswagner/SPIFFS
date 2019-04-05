@@ -1,6 +1,6 @@
 # Multi-Partition SPIFFS for ESP32
 
-Adapted from the build-in SPIFFS lib, this version allows using multiple SPIFFS partitions.
+Adapted from the ESP32's build-in SPIFFS lib, this version allows using multiple SPIFFS partitions.
 
 ## Why?
 

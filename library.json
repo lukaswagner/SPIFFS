@@ -1,0 +1,19 @@
+{
+    "name": "Multi-Partition Spiffs",
+    "keywords": "spiffs, fs, partition, flash, storage",
+    "description": "Adapted from the ESP32's build-in SPIFFS lib, this version allows using multiple SPIFFS partitions.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/lukaswagner/SPIFFS"
+    },
+    "authors":
+    {
+        "name": "Lukas Wagner",
+        "url": "http://www.lukaswagner.info/"
+    },
+    "version": "1.0",
+    "frameworks": "arduino",
+    "platforms": "espressif32",
+    "license": "MIT"
+}
