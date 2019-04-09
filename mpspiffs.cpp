@@ -2,7 +2,7 @@
 
 #include <esp_spiffs.h>
 #include <esp_task_wdt.h>
-#include <freeRTOS/task.h>
+#include <freertos/task.h>
 #include <FS.h>
 #include <vfs_api.h>
 
